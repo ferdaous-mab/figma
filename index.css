@@ -1,0 +1,43 @@
+.elementsection{
+    display: flex;
+    gap: 10px;
+    align-items: center; /* Centre verticalement l'image et le texte */
+    gap: 10px; 
+}
+.elementsection img{
+    width: 15px;
+    height:20px ;
+}
+.section1fin{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.section1fin img{
+    height: 20px;
+    width: 27px;
+}
+.title{
+    color:#034D82;
+    font-weight: bold;
+    font-family: "DM Sans", sans-serif;
+}
+.parag{
+    color: #90A3B4;
+    font-family: "DM Sans", sans-serif;
+}
+.section1ghaucheliste{
+    color: #90A3B4;
+    font-family: "DM Sans", sans-serif;
+}
+.section1fin{
+    color:#04AADD;
+    font-weight: bold;
+    font-family: "DM Sans", sans-serif;
+}
+.section1{
+    display: flex;
+}
+.section1droite{
+    width: 30%;
+}
